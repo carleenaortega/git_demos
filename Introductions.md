@@ -35,7 +35,7 @@ Anh Le: Hi! Made a change.
 
 Xuemeng Li: I'm trying to commit a change
 
-Diana Lin: 
+Diana Lin: Whoops left early for this class and didn't know we did this
 
 Jimmy Liu: HELLO WORLD
 
